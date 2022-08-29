@@ -1,12 +1,9 @@
+package sand.collection;
+
+import java.util.*;
 
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collection;
-import java.util.List;
-
-
-public class Collections {
+public class CollectionsDemo {
 
  public static void main(String[] args) {
 
@@ -24,6 +21,6 @@ public class Collections {
 //  list.addAll(Arrays.asList("", "a", "b", "c"));
 //  ints.add("a");
 
-  System.out.println("list = " + ints);
+  System.out.println("list = " + collection);
  }
 }
